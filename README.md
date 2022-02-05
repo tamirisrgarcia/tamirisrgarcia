@@ -1,6 +1,5 @@
 ### Olá, eu sou a Tamiris! Seja bem-vindo(a) 👋
 
-Here are some ideas to get you started:
 
 - 👩‍💻 Em transição de carreira para a área de Tecnologia
 - 👩‍🎓 Estudante Web Full Stack na SoulCode Academy e Digital House Brasil
