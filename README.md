@@ -2,7 +2,8 @@
 
 
 - 👩‍💻 Em transição de carreira para a área de Tecnologia
-- 👩‍🎓 Estudante Web Full Stack na SoulCode Academy e Digital House Brasil
+- 👩‍🎓 Web Developer pela SoulCode Academy
+- 👩‍ Estudante do programa Certified Tech Developer | Digital House Brasil
 
 <div align="center">
   <a href="https://github.com/tamirisrgarcia">
