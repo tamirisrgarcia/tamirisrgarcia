@@ -4,7 +4,8 @@
 - 👩‍💻 Em transição de carreira para a área de Tecnologia
 - 👩‍🎓 Web Developer pela SoulCode Academy
 - 👩‍ Estudante do programa Certified Tech Developer | Digital House Brasil
-- 💻 Participante do Hiring Coders#3 | Gama Academy e VTEX
+- 💻 Educadora do laboratório de Programação da Casa do Zezinho, SP. 
+
 <br />
 <div align="center">
   <a href="https://github.com/tamirisrgarcia">
