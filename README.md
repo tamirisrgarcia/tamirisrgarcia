@@ -4,7 +4,7 @@
 - 👩‍💻 Em transição de carreira para a área de Tecnologia
 - 👩‍🎓 Web Developer pela SoulCode Academy
 - 👩‍ Estudante do programa Certified Tech Developer | Digital House Brasil
-- 💻 Educadora do laboratório de Programação da Casa do Zezinho, SP. 
+- 💻 Trainee em Desenvolvimento de Sistemas - Devnology. 
 
 <br />
 <div align="center">
