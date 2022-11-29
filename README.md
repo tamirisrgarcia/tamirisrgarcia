@@ -4,7 +4,7 @@
 - 👩‍💻 Em transição de carreira para a área de Tecnologia
 - 👩‍🎓 Web Developer pela SoulCode Academy
 - 👩‍ Estudante do programa Certified Tech Developer | Digital House Brasil
-- 💻 Trainee em Desenvolvimento de Sistemas - Devnology. 
+- 💻 Trainee em Desenvolvimento de Software - Devnology. 
 
 <br />
 <div align="center">
