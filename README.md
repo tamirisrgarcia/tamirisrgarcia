@@ -1,10 +1,10 @@
 ### Olá, eu sou a Tamiris! Seja bem-vindo(a) 👋
 <hr>
 
-- 👩‍💻 Em transição de carreira para a área de Tecnologia
-- 👩‍🎓 Web Developer pela SoulCode Academy
-- 👩‍ Estudante do programa Certified Tech Developer | Digital House Brasil
-- 💻 Trainee em Desenvolvimento de Software - Devnology. 
+- 👩‍💻 Transição de carreira para a área de Tecnologia
+- 👩‍🎓 Web Developer | SoulCode Academy
+- 👩‍ Certified Tech Developer | Digital House Brasil
+- 💻 Análise e Desenvolvimento de Sistemas | FIAP. 
 
 <br />
 <div align="center">
